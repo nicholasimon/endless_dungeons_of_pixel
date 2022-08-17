@@ -51,7 +51,9 @@ Pets do nothing other than keep you company so don't bother trying to work out w
 There is no ending, the name of the game is THE ENDLESS DUNGEONS OF PIXEL hence it is endless.
 
 CREDITS
+
 Artwork
+
 https://kenney.nl/
 
 https://thkaspar.itch.io/

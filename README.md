@@ -1,6 +1,6 @@
 The Endless Dungeons of Pixel
 
-An arcade style rogue-lite game made as a hobby for Windows that you can play very easily using just a mouse.
+An arcade style rogue-lite game made as a hobby for Windows that you can play very easily using just a mouse. Made with Go https://go.dev/ and the Go bindings for Raylib https://github.com/gen2brain/raylib-go
 
 PLEASE view the credits at the end for all the artwork used in the game. If you see artwork in the game that you made and you are not listed in the credits at the end of this page then please let me know
 

@@ -13,17 +13,27 @@ Has only been tested on resolutions up to 1920X1080 probably won’t look good o
 INPUT:
 The entire game can be played using only a mouse, there is no option to use a controller or keyboard.
 
+
 Left Mouse Click:  	On open floor moves to that area
+
 			On an interactable object will pick up or use the object
+			
 			On inventory will equip/unequip or use an item
+			
 
 Right Mouse Click: 	With weapon equipped will attack
+
 			With spade equipped will dig (only works in certain areas)
+			
 			On inventory will open options to delete or move the item
+			
 
 KEYS:			ESC = Exits the game
+
 			PAUSE = Does what it says
+			
 			M = Open/Closes Map (to teleport on the map click in a blue rectangle)
+			
 			L = Open/Closes Message Log
 	
 Most objects in the word have some purpose and can be interacted with so explore and interact to work out how to stay alive.
@@ -37,12 +47,21 @@ There is no ending, the name of the game is THE ENDLESS DUNGEONS OF PIXEL hence 
 CREDITS
 Artwork
 https://kenney.nl/
+
 https://thkaspar.itch.io/
+
 https://danaida.itch.io/
+
 https://vectorpixelstar.itch.io/
+
 https://pixelfrog-assets.itch.io/
+
 https://arks.itch.io/
+
 https://pipoya.itch.io/
 
+
 Sound FX 
+
 https://pixabay.com/sound-effects/
+

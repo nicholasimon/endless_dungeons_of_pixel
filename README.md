@@ -3,11 +3,14 @@ An arcade style rogue-lite game made as a hobby for Windows
 
 
 a game by https://nicholasimon.co.za/
-The game is free and if you are interested the source code (written in Go https://go.dev/ using Raylib https://www.raylib.com/) is available on Github here
 PLEASE view the credits at the end for all the artwork used in the game. If you see artwork in the game that you made and you are not listed in the credits at the end of this page then please let me know
+
 Remember this is just a personal project and there (probably lots of) bugs/issues - if you want to let me know about them you can contact me here support@nicholasimon.co.za
+
 There is an issue/bug and sometimes the level will generate and you will be stuck in a room. Press the STUCK button bottom right and the next level will generate.
-Has only been tested on resolutions up to 1920X1080 probably won’t work on anything higher.
+
+Has only been tested on resolutions up to 1920X1080 probably won’t look good on anything higher.
+
 INPUT:
 The entire game can be played using only a mouse, there is no option to use a controller or keyboard.
 

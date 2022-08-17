@@ -14,21 +14,24 @@ INPUT:
 The entire game can be played using only a mouse, there is no option to use a controller or keyboard.
 
 
-Left Mouse Click:  	On open floor moves to that area
+Left Mouse Click:  	
+			On open floor moves to that area
 
 			On an interactable object will pick up or use the object
 			
 			On inventory will equip/unequip or use an item
 			
 
-Right Mouse Click: 	With weapon equipped will attack
+Right Mouse Click: 	
+			With weapon equipped will attack
 
 			With spade equipped will dig (only works in certain areas)
 			
 			On inventory will open options to delete or move the item
 			
 
-KEYS:			ESC = Exits the game
+KEYS:			
+			ESC = Exits the game
 
 			PAUSE = Does what it says
 			

@@ -4,7 +4,7 @@ An arcade style rogue-lite game made as a hobby for Windows that you can play ve
 
 PLEASE view the credits at the end for all the artwork used in the game. If you see artwork in the game that you made and you are not listed in the credits at the end of this page then please let me know
 
-Remember this is just a personal project and there (probably lots of) bugs/issues - if you want to let me know about them you can contact me here support@nicholasimon.co.za
+Remember this is just a personal project and there (probably lots of) bugs/issues - if you want to let me know about them (I probably won't fix them) you can contact me here support@nicholasimon.co.za
 
 There is an issue/bug and sometimes the level will generate and you will be stuck in a room. Press the STUCK button bottom right and the next level will generate.
 

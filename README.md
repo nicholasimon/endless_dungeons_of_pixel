@@ -1,4 +1,4 @@
-The Endless Dungeons of Pixel
+<h1>The Endless Dungeons of Pixel</h1>
 
 An arcade style rogue-lite game made as a hobby for Windows that you can play very easily using just a mouse. Made with Go https://go.dev/ and the Go bindings for Raylib https://github.com/gen2brain/raylib-go
 
@@ -10,11 +10,11 @@ There is an issue/bug and sometimes the level will generate and you will be stuc
 
 Has only been tested on resolutions up to 1920X1080 probably won’t look good on anything higher.
 
-INPUT:
+<b>INPUT:</b>
 The entire game can be played using only a mouse, there is no option to use a controller or keyboard.
 
 
-Left Mouse Click:  	
+<b>Left Mouse Click:</b>  	
 			
 			On open floor moves to that area
 
@@ -23,7 +23,8 @@ Left Mouse Click:
 			On inventory will equip/unequip or use an item
 			
 
-Right Mouse Click: 	
+<b>Right Mouse Click:</b>
+
 			
 			With weapon equipped will attack
 
@@ -32,7 +33,8 @@ Right Mouse Click:
 			On inventory will open options to delete or move the item
 			
 
-KEYS:			
+<b>KEYS:</b>
+			
 			
 			ESC = Exits the game
 
@@ -50,7 +52,7 @@ Each level has more monsters than the previous meaning the further you go the mo
 Pets do nothing other than keep you company so don't bother trying to work out what they do.
 There is no ending, the name of the game is THE ENDLESS DUNGEONS OF PIXEL hence it is endless.
 
-CREDITS
+<b>CREDITS</b>
 
 Artwork
 

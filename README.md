@@ -1,7 +1,5 @@
 <h1>The Endless Dungeons of Pixel</h1>
 
-<img src="screen2.png" border="0" width="90%" />
-<br />
 <img src="screen1.png" border="0" width="90%" />
 <br />
 An arcade style rogue-lite game made as a hobby for Windows that you can play very easily using just a mouse. Made with Go https://go.dev/ and the Go bindings for Raylib https://github.com/gen2brain/raylib-go

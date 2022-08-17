@@ -1,0 +1,46 @@
+# endless_dungeons_of_pixel
+An arcade style rogue-lite game made as a hobby for Windows 
+
+
+a game by https://nicholasimon.co.za/
+The game is free and if you are interested the source code (written in Go https://go.dev/ using Raylib https://www.raylib.com/) is available on Github here
+PLEASE view the credits at the end for all the artwork used in the game. If you see artwork in the game that you made and you are not listed in the credits at the end of this page then please let me know
+Remember this is just a personal project and there (probably lots of) bugs/issues - if you want to let me know about them you can contact me here support@nicholasimon.co.za
+There is an issue/bug and sometimes the level will generate and you will be stuck in a room. Press the STUCK button bottom right and the next level will generate.
+Has only been tested on resolutions up to 1920X1080 probably won’t work on anything higher.
+INPUT:
+The entire game can be played using only a mouse, there is no option to use a controller or keyboard.
+
+Left Mouse Click:  	On open floor moves to that area
+			On an interactable object will pick up or use the object
+			On inventory will equip/unequip or use an item
+
+Right Mouse Click: 	With weapon equipped will attack
+			With spade equipped will dig (only works in certain areas)
+			On inventory will open options to delete or move the item
+
+KEYS:			ESC = Exits the game
+			PAUSE = Does what it says
+			M = Open/Closes Map (to teleport on the map click in a blue rectangle)
+			L = Open/Closes Message Log
+	
+Most objects in the word have some purpose and can be interacted with so explore and interact to work out how to stay alive.
+If you find gems and have them in your inventory at the end of the level (when going downstairs), if the combined gem value is high enough the shop will automatically open where you can upgrade.
+Belt inventory only allows small items - potions, maps & scrolls, backpack inventory allows all items.
+The KILLS TO BOSS (bottom left) text is a countdown of kills till the next boss will appear onscreen. When that number reaches zero a random boss will appear. 
+Each level has more monsters than the previous meaning the further you go the more difficult the game becomes so make sure to power up as much as possible before descending downstairs.
+Pets do nothing other than keep you company so don't bother trying to work out what they do.
+There is no ending, the name of the game is THE ENDLESS DUNGEONS OF PIXEL hence it is endless.
+
+CREDITS
+Artwork
+https://kenney.nl/
+https://thkaspar.itch.io/
+https://danaida.itch.io/
+https://vectorpixelstar.itch.io/
+https://pixelfrog-assets.itch.io/
+https://arks.itch.io/
+https://pipoya.itch.io/
+
+Sound FX 
+https://pixabay.com/sound-effects/

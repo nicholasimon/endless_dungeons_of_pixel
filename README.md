@@ -15,6 +15,7 @@ The entire game can be played using only a mouse, there is no option to use a co
 
 
 Left Mouse Click:  	
+			
 			On open floor moves to that area
 
 			On an interactable object will pick up or use the object
@@ -23,6 +24,7 @@ Left Mouse Click:
 			
 
 Right Mouse Click: 	
+			
 			With weapon equipped will attack
 
 			With spade equipped will dig (only works in certain areas)
@@ -31,6 +33,7 @@ Right Mouse Click:
 			
 
 KEYS:			
+			
 			ESC = Exits the game
 
 			PAUSE = Does what it says

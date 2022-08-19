@@ -2,6 +2,8 @@
 
 <img src="screen1.png" border="0" width="90%" />
 <br />
+Download the game for Windows here https://nicholasimon.itch.io/the-endless-dungeons-of-pixel
+<br/>
 An arcade style rogue-lite game made as a hobby for Windows that you can play very easily using just a mouse. Made with Go https://go.dev/ and the Go bindings for Raylib https://github.com/gen2brain/raylib-go
 
 PLEASE view the credits at the end for all the artwork used in the game. If you see artwork in the game that you made and you are not listed in the credits at the end of this page then please let me know
